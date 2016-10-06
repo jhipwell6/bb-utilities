@@ -2,6 +2,8 @@
 
 A lightweight utility plugin for Beaver Builder.  
 
+#### [Download Plugin](https://github.com/jhipwell6/bb-utilities/raw/master/bb-utilities.zip)
+
 ### Includes
 * Modules Used list
 * Google Analytics event tracking addon for button and cta modules
