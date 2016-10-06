@@ -1,4 +1,4 @@
-# BB Utiilities
+# BB Utilities
 
 A lightweight utility plugin for Beaver Builder.  
 
