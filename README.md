@@ -2,7 +2,7 @@
 
 A lightweight utility plugin for Beaver Builder.  
 
-#### [Download Plugin](https://github.com/jhipwell6/bb-utilities/raw/master/bb-utilities.zip)
+#### [Download Plugin](https://goo.gl/Ns3uIX)
 
 ### Includes
 * Modules Used list
