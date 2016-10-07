@@ -16,3 +16,4 @@ A lightweight utility plugin for Beaver Builder.
 ### Screenshots
 ![alt text](https://github.com/jhipwell6/bb-utilities/raw/master/screenshot1.png "Modules Used List")
 ![alt text](https://github.com/jhipwell6/bb-utilities/raw/master/screenshot2.png "Modules Used By Page")
+![alt text](https://github.com/jhipwell6/bb-utilities/raw/master/screenshot3.png "GA Event Tracking")
