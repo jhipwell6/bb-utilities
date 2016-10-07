@@ -12,3 +12,7 @@ A lightweight utility plugin for Beaver Builder.
 ### Coming Soon
 * Sticky rows feature for any beaver builder row
 * Visibility based on query string in current page URL
+
+### Screenshots
+!(https://github.com/jhipwell6/bb-utilities/raw/master/screenshot1.png)
+!(https://github.com/jhipwell6/bb-utilities/raw/master/screenshot2.png)
