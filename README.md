@@ -14,5 +14,5 @@ A lightweight utility plugin for Beaver Builder.
 * Visibility based on query string in current page URL
 
 ### Screenshots
-!(https://github.com/jhipwell6/bb-utilities/raw/master/screenshot1.png)
-!(https://github.com/jhipwell6/bb-utilities/raw/master/screenshot2.png)
+![alt text](https://github.com/jhipwell6/bb-utilities/raw/master/screenshot1.png "Modules Used List")
+![alt text](https://github.com/jhipwell6/bb-utilities/raw/master/screenshot2.png "Modules Used By Page")
