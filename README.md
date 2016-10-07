@@ -14,6 +14,9 @@ A lightweight utility plugin for Beaver Builder.
 * Visibility based on query string in current page URL
 
 ### Screenshots
+#### Modules Used
 ![alt text](https://github.com/jhipwell6/bb-utilities/raw/master/screenshot1.png "Modules Used List")
 ![alt text](https://github.com/jhipwell6/bb-utilities/raw/master/screenshot2.png "Modules Used By Page")
+
+#### Google Analytics
 ![alt text](https://github.com/jhipwell6/bb-utilities/raw/master/screenshot3.png "GA Event Tracking")
